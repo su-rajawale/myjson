@@ -1,13 +1,20 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "edited sutaj",
+      "username": "eitedkslau",
+      "email": "edited@e.com",
+      "phone": "222",
+      "website": "eidt.caofjewo.com",
+      "id": 11
+    },
+    {
+      "name": "Lola",
+      "username": "Lola",
+      "email": "lola@lol.com",
+      "phone": "98798",
+      "website": "website",
+      "id": 12
     }
-  ],
-  "profile": [
-    {
-    "name": "typicode"
-  }
-    ]
+  ]
 }
