@@ -1,20 +1,134 @@
 {
   "users": [
     {
-      "name": "edited sutaj",
-      "username": "eitedkslau",
-      "email": "edited@e.com",
-      "phone": "222",
-      "website": "eidt.caofjewo.com",
-      "id": 11
+      "id": 1,
+      "role": "admin",
+      "password": "admin",
+      "fullName": "John Doe",
+      "username": "johndoe",
+      "email": "admin@materialize.com",
+      "company": "Doe and Dove",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      }
     },
     {
-      "name": "Lola",
-      "username": "Lola",
-      "email": "lola@lol.com",
-      "phone": "98798",
-      "website": "website",
-      "id": 12
+      "id": 2,
+      "role": "admin",
+      "password": "danny",
+      "fullName": "Danny Benson",
+      "username": "dannybenson",
+      "email": "danny@materialize.com",
+      "company": "Bensons & Co.",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      }
+    },
+    {
+      "id": 3,
+      "role": "admin",
+      "password": "sagar01",
+      "fullName": "Sagar A",
+      "username": "sagar",
+      "email": "sagar@materialize.com",
+      "company": "Redxcel Pvt. Ltd.",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      }
+    },
+    {
+      "id": 4,
+      "role": "admin",
+      "password": "akash01",
+      "fullName": "Akash Bond",
+      "username": "akash",
+      "email": "akash@materialize.com",
+      "company": "Acestar Sdn Bhd",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      }
+    },
+    {
+      "id": 5,
+      "role": "client",
+      "password": "client",
+      "fullName": "Jane Doe",
+      "username": "janedoe",
+      "email": "client@materialize.com",
+      "company": "ClientComp",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      }
+    },
+    {
+      "id": 6,
+      "role": "admin",
+      "fullName": "",
+      "email": "suraj@redxcel.com",
+      "username": "suraj awale",
+      "password": "password",
+      "number": "9850063932",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      },
+      "company": "redxcel"
+    },
+    {
+      "role": "admin",
+      "fullName": "",
+      "email": "sauce@d.com",
+      "username": "sourced",
+      "password": "password",
+      "number": "9850063932",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      },
+      "company": "companyd",
+      "id": 7
+    },
+    {
+      "role": "admin",
+      "fullName": "",
+      "email": "test@mail.com",
+      "username": "test username",
+      "password": "password",
+      "number": "9859998989",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      },
+      "company": "testCompany",
+      "id": 8
+    },
+    {
+      "role": "admin",
+      "fullName": "",
+      "email": "success@test.com",
+      "username": "successtest",
+      "password": "password",
+      "number": "9878898987",
+      "country": {
+        "code": "IN",
+        "name": "India",
+        "phone": "91"
+      },
+      "company": "successtestcompany",
+      "id": 9
     }
   ]
 }
